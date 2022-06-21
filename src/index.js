@@ -72,5 +72,5 @@ io.on('connection', (socket) => {
 })
 
 server.listen(PORT, () => {
-    console.log(`Server started on port ${PORT}!`)
+    console.log(`Server is up on port ${PORT}!`)
 })
